@@ -911,7 +911,9 @@ flex-direction: column;
   margin-top: 10%;
   gap: 20px;
 }
-
+.eight-details{
+  font-family: 'lato';
+}
 .eigth-email{
   display: flex;
   flex-direction: column;
