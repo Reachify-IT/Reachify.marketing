@@ -62,22 +62,26 @@
     font-size: 45px;
     font-weight: bolder;
     color: #A959FF;
+    padding-top: 20px;
+    text-align: center;
 }
 .main-text{
     text-align: center;
     font-family: 'titillium web';
-    font-size: 40px;
+    font-size: 24px;
     font-weight: bold;
+    padding-top: 64px;
 }
 
 .main-header-content{
     text-align: center;
     font-family: 'lato';
     font-size: 24px;
-    padding: 40px 0 80px 0;
+    padding: 24px 0 80px 0;
 }
 .service1-head{
     padding: 100px;
+    padding-top:  56px;
     text-align: center;
     font-family: 'lato';
     font-size: 40px;
@@ -114,6 +118,9 @@ ul li{
     padding: 3% 5% 5% 5%;
     
 }
+.ai{
+    padding-bottom: 16px;
+}
 .service-feature{
     color: white;
     display: flex;
@@ -130,7 +137,7 @@ ul li{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 5% ;
+    padding: 56px ;
 }
 .cross , .ticks{
     color: white;
