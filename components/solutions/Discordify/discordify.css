@@ -17,6 +17,8 @@ body{
     display: flex;
     color: white;
     flex-direction: column;
+    background: linear-gradient(112.9deg, #131313 43.65%, #565656 125.29%);
+  
 }
 .discord-heading{
     display: flex;
@@ -25,6 +27,7 @@ body{
     font-family: 'Titillium Web';
     font-size: 40px;
     margin-top: 2%;
+    font-weight: bold;
 }
 .discord-heading span{
     color: #5E239D;
