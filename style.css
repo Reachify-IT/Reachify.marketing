@@ -789,6 +789,7 @@ flex-direction: column;
 .footer
 {
   background: linear-gradient(112.9deg, #131313 43.65%, #565656 125.29%);
+  font-family: 'lato';
 }
 .eigth-logo{
   color: white;
