@@ -729,7 +729,7 @@ header > p {
 .question {
   font-size: 16px;
   font-weight: bold;
-  text-align: center;
+  /* text-align: center; */
   font-family: "lato";
   color: white;
   cursor: pointer;
@@ -751,10 +751,10 @@ header > p {
   font-size: 16px;
   color: white;
   margin-top: 5px;
-  text-align: center;
+  /* text-align: center; */
   font-family: 'lato';
   display: none;
-  padding: 8px 0 24px 16px;
+  padding: 8px 0 24px 0;
 }
 .answer a{
   color: white;

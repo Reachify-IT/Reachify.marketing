@@ -50,7 +50,7 @@
     padding: 16px;
     border-radius: 25px;
     gap: 8px;
-    /* box-shadow:  15px 15px #dedbdbb8; */
+    box-shadow:   0px 0px 15px #C0C0C0;
 }
 .card-img img{
     height: 240px;
