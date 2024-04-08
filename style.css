@@ -417,7 +417,7 @@ cursor: pointer;
 border: none;
 outline:"none";
 border-radius: 50px;
-font-size: 16px;
+font-size: 18px;
 font-weight: bold;
 background-color: #5E239D;
 color: white;
@@ -569,6 +569,7 @@ height: 600px;
 .third-description{
     font-size: .9rem;
     margin-top: 1.5rem;
+    font-family: 'lato';
 }
 .third-left-elaborate{
     display: flex;
@@ -595,7 +596,7 @@ font-size: 24px;
   outline:"none";
   border-radius: 50px;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
   background-color: #5E239D;
   color: white;
