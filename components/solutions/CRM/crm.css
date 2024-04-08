@@ -29,12 +29,12 @@ body{
     align-items: center;
     flex-direction: column;
     gap: 20px;
-    padding-top: 36px;
+    padding-top: 72px;
     font-family: 'Titillium Web';
     font-size: 40px;
 }
 .crm-heading span{
-    color: #5E239D;
+    color:#A959ff;
 }
 .crm-heading h1{
     font-size: 40px;

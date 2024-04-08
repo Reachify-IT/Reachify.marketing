@@ -24,7 +24,7 @@ body{
 }
 .app-heading {
     display: flex;
-    padding-top: 36px;
+    padding-top: 72px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -35,7 +35,7 @@ body{
 }
 
 .app-heading span{
-    color: #5E239D;
+    color:#A959ff;
 }
 .lottie img{
 width: 372px;
