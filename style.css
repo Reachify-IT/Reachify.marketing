@@ -739,8 +739,13 @@ header > p {
   color: white;
   margin-top: 5px;
   text-align: center;
+  font-family: 'lato';
   display: none;
   padding: 8px 0 24px 16px;
+}
+.answer a{
+  color: white;
+  
 }
 
 .answer.active {
@@ -883,6 +888,7 @@ flex-direction: column;
 .eight-second{
   display: flex;
   flex-direction: column;
+  font-family: 'lato';
   gap: 30px;
 }
 .second-details{
@@ -897,6 +903,7 @@ flex-direction: column;
 }
 .startp{
   font-size: 24px;
+  font-family: 'lato';
 }
 .email-contact{
   display: flex;
